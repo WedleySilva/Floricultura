@@ -1,3 +1,3 @@
 <template>
-    <h1>Conteudo</h1>
+    <h1>Conteudo Floricultura</h1>
 </template>
